@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\whileLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F30C17-4D4F-4ABB-9E88-0B6A898BFCE2}|whileLoop\\whileLoop.vcxproj|C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\whileLoop\\whileLoop\\loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59F30C17-4D4F-4ABB-9E88-0B6A898BFCE2}|whileLoop\\whileLoop.vcxproj|solutionrelative:whileLoop\\loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loops.cpp",
+              "DocumentMoniker": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\whileLoop\\whileLoop\\loops.cpp",
+              "RelativeDocumentMoniker": "whileLoop\\loops.cpp",
+              "ToolTip": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\whileLoop\\whileLoop\\loops.cpp",
+              "RelativeToolTip": "whileLoop\\loops.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T05:23:07.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  randomNumbers.cpp
+C:\Users\makem\Documents\GitHub\C++\Tutorials\randomNumbers\randomNumbers\randomNumbers.cpp(60,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randomNumbers.vcxproj -> C:\Users\makem\Documents\GitHub\C++\Tutorials\randomNumbers\randomNumbers\x64\Debug\randomNumbers.exe

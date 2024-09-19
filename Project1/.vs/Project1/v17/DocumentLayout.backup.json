@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17099A1D-F9DA-45A2-8A6A-9EEED5A425F9}|Project1\\Project1.vcxproj|C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\Project1\\Project1\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17099A1D-F9DA-45A2-8A6A-9EEED5A425F9}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project1.cpp",
+              "DocumentMoniker": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\Project1\\Project1\\Project1.cpp",
+              "RelativeDocumentMoniker": "Project1\\Project1.cpp",
+              "ToolTip": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\Project1\\Project1\\Project1.cpp",
+              "RelativeToolTip": "Project1\\Project1.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T00:49:38.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
