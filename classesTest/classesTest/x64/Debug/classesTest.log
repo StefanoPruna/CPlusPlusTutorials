@@ -1,0 +1,6 @@
+﻿  classesTest.cpp
+C:\Users\makem\Documents\GitHub\C++\Tutorials\classesTest\classesTest\classesTest.cpp(26,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Users\makem\Documents\GitHub\C++\Tutorials\classesTest\classesTest\classesTest.cpp(26,12):
+      consider using '%zd' in the format string
+  
+  classesTest.vcxproj -> C:\Users\makem\Documents\GitHub\C++\Tutorials\classesTest\x64\Debug\classesTest.exe
