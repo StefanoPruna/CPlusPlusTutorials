@@ -1,0 +1,3 @@
+﻿  fizzBuzz.cpp
+C:\Users\makem\Documents\GitHub\C++\Tutorials\fizzBuzz\fizzBuzz\fizzBuzz.cpp(31,16): warning C4101: 'number': unreferenced local variable
+  fizzBuzz.vcxproj -> C:\Users\makem\Documents\GitHub\C++\Tutorials\fizzBuzz\x64\Debug\fizzBuzz.exe
