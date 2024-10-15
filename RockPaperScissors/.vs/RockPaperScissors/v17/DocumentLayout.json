@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\RockPaperScissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE012A2-C6E2-415E-92B5-E3B4C3B2111A}|RockPaperScissors\\RockPaperScissors.vcxproj|C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAE012A2-C6E2-415E-92B5-E3B4C3B2111A}|RockPaperScissors\\RockPaperScissors.vcxproj|solutionrelative:RockPaperScissors\\RockPaperScissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RockPaperScissors.cpp",
+              "DocumentMoniker": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.cpp",
+              "RelativeDocumentMoniker": "RockPaperScissors\\RockPaperScissors.cpp",
+              "ToolTip": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.cpp",
+              "RelativeToolTip": "RockPaperScissors\\RockPaperScissors.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T03:57:21.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
