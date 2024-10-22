@@ -1,0 +1,143 @@
+﻿  Array.cpp
+C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(56,12): error C2082: redefinition of formal parameter 'books'
+C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24): error C2672: 'begin': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1962,27):
+      could be '_Ty *std::begin(_Ty (&)[_Size]) noexcept'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          '_Ty *std::begin(_Ty (&)[_Size]) noexcept': could not deduce template argument for '_Ty (&)[_Size]' from 'std::string []'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1944,30):
+      or       'unknown-type std::begin(const _Container &) noexcept(<expr>)'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          Failed to specialize function template 'unknown-type std::begin(const _Container &) noexcept(<expr>)'
+              C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+              With the following template arguments:
+                  C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+                  '_Container=std::string []'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1945,23):
+              left of '.begin' must have class/struct/union
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1945,23):
+                  type is 'const _Container'
+          with
+          [
+              _Container=std::string []
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1945,23):
+                  did you intend to use '->' instead?
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1938,30):
+      or       'unknown-type std::begin(_Container &) noexcept(<expr>)'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          Failed to specialize function template 'unknown-type std::begin(_Container &) noexcept(<expr>)'
+              C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+              With the following template arguments:
+                  C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+                  '_Container=std::string []'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1939,23):
+              left of '.begin' must have class/struct/union
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1939,23):
+                  type is '_Container'
+          with
+          [
+              _Container=std::string []
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1939,23):
+                  did you intend to use '->' instead?
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\initializer_list(54,35):
+      or       'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'std::string []'
+  
+C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24): error C2672: 'end': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1967,27):
+      could be '_Ty *std::end(_Ty (&)[_Size]) noexcept'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          '_Ty *std::end(_Ty (&)[_Size]) noexcept': could not deduce template argument for '_Ty (&)[_Size]' from 'std::string []'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1956,30):
+      or       'unknown-type std::end(const _Container &) noexcept(<expr>)'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          Failed to specialize function template 'unknown-type std::end(const _Container &) noexcept(<expr>)'
+              C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+              With the following template arguments:
+                  C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+                  '_Container=std::string []'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1957,23):
+              left of '.end' must have class/struct/union
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1957,23):
+                  type is 'const _Container'
+          with
+          [
+              _Container=std::string []
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1957,23):
+                  did you intend to use '->' instead?
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1950,30):
+      or       'unknown-type std::end(_Container &) noexcept(<expr>)'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          Failed to specialize function template 'unknown-type std::end(_Container &) noexcept(<expr>)'
+              C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+              With the following template arguments:
+                  C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+                  '_Container=std::string []'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1951,23):
+              left of '.end' must have class/struct/union
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1951,23):
+                  type is '_Container'
+          with
+          [
+              _Container=std::string []
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(1951,23):
+                  did you intend to use '->' instead?
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\initializer_list(59,35):
+      or       'const _Elem *std::end(std::initializer_list<_Elem>) noexcept'
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24):
+          'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'std::string []'
+  
+C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24): error C3536: '<begin>$L0': cannot be used before it is initialized
+C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,24): error C3536: '<end>$L0': cannot be used before it is initialized
+C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29): error C2440: 'initializing': cannot convert from 'int' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29):
+      'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string': no overloaded function could convert all the argument types
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(749,5):
+          could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+              C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )': cannot convert argument 1 from 'int' to 'const _Elem *const '
+          with
+          [
+              _Elem=char
+          ]
+                  C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29):
+                  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(1327,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29):
+              'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)': cannot convert argument 1 from 'int' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29):
+                  Conversion requires a second user-defined-conversion operator or constructor
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(779,5):
+          or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)'
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Users\makem\Documents\GitHub\C++\Tutorials\Array\Array\Array.cpp(61,29):
+          while trying to match the argument list '(int)'
+  
