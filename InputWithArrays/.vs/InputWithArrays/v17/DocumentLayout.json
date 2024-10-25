@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\InputWithArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A13FA3F3-047F-40A7-BD83-2AEE3D045047}|InputWithArrays\\InputWithArrays.vcxproj|C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\InputWithArrays\\InputWithArrays\\InputWithArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A13FA3F3-047F-40A7-BD83-2AEE3D045047}|InputWithArrays\\InputWithArrays.vcxproj|solutionrelative:InputWithArrays\\InputWithArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputWithArrays.cpp",
+              "DocumentMoniker": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\InputWithArrays\\InputWithArrays\\InputWithArrays.cpp",
+              "RelativeDocumentMoniker": "InputWithArrays\\InputWithArrays.cpp",
+              "ToolTip": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\InputWithArrays\\InputWithArrays\\InputWithArrays.cpp",
+              "RelativeToolTip": "InputWithArrays\\InputWithArrays.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T00:49:15.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

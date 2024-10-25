@@ -6,11 +6,33 @@
 
 using namespace std;
 
+//Multidimensional Arrays
+
+int main()
+{
+    string cars[][3] = { {"Fiat", "Ferrari"},
+        {"GWM", "Lambo"},
+        {"Lancia", "McLaren"} };
+
+    int rows = sizeof(cars) / sizeof(cars[0]);
+    int columns = sizeof(cars[0]) / sizeof(cars[0][0]);
+
+    for (int i= 0; i < rows; i++)
+    {
+        for (int j = 0; j < columns; j++)
+            cout << cars[i][j] << " ";    
+
+        cout << "\n";
+    }
+
+    return 0;
+}
+
+/*
 //Sort Arrays
 void sort(int array3[], int size3);
 
 //fill the gap in an Array
-
 void fillArray(string books[]);
 
 int main()
@@ -24,9 +46,19 @@ int main()
         cout << element3 << " ";
 
     //fill method     
+    /* IT WORKS IF THE CODE IS ALL HERE
     const int SIZE = 100;
     string books[SIZE];
+    
+    fill(books, books + (SIZE / 2), "\nLOTR");
+    fill(books + (SIZE / 2), books + SIZE, "HOBBIT");
 
+    for (string book : books)
+        cout << book << "\n";
+    */
+    //IT DOESN'T WORK TO CALL THE FUNCTION
+/*
+    string books[100];
     fillArray(books);    
 
     return 0;
@@ -61,6 +93,7 @@ void fillArray(string books[])
     for (string book : books)
         cout << book << "\n";
 }
+*/
 
 /*
 int searchArray(int array[], int size, int element);

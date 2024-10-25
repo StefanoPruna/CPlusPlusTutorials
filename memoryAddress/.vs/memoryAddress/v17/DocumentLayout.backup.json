@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\memoryAddress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D7F67E-A35C-4464-AD0E-3DDE72F17A3B}|memoryAddress\\memoryAddress.vcxproj|C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\memoryAddress\\memoryAddress\\memoryAddress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83D7F67E-A35C-4464-AD0E-3DDE72F17A3B}|memoryAddress\\memoryAddress.vcxproj|solutionrelative:memoryAddress\\memoryAddress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "memoryAddress.cpp",
+              "DocumentMoniker": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\memoryAddress\\memoryAddress\\memoryAddress.cpp",
+              "RelativeDocumentMoniker": "memoryAddress\\memoryAddress.cpp",
+              "ToolTip": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\memoryAddress\\memoryAddress\\memoryAddress.cpp*",
+              "RelativeToolTip": "memoryAddress\\memoryAddress.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T04:22:27.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
