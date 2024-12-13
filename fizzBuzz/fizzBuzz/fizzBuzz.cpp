@@ -7,6 +7,28 @@
 using std::cout;
 using std::cin;
 
+void fizzBuzz(int n)
+{
+    try
+    {
+        for (int number = 1; number <= n; i++)
+        {
+            if (number % 3 == 0 || number % 5 == 0)
+                cout << "FizzBuzz";
+            else if (number % 3 == 0)
+                cout << "Fizz";
+            else if (number % 5 == 0)
+                cout << "Buzz";
+            else if (number % 3 != 0 || number % 5 != 0)
+                cout << number;
+        }
+    }
+    catch (int number)
+    {
+        cout << "You have not inserted the correct number\n";
+    }
+}
+
 int main()
 {
     int number;
@@ -14,21 +36,7 @@ int main()
     cout << "Enter the number:\n";
     cin >> number;
 
-    try
-    {
-        if (number % 3 == 0 || number % 5 == 0)
-            cout << "FizzBuzz";
-        else if (number % 3 == 0)
-            cout << "Fizz";
-        else if (number % 5 == 0)
-            cout << "Buzz";
-        else if(number % 3 != 0 || number % 5 !=0)
-            cout << number;
-    }
-    catch (int number)
-    {
-        cout << "You have not inserted the correct number\n";
-    }
+    fizzBuzz(number);
     
     return 0;
 }

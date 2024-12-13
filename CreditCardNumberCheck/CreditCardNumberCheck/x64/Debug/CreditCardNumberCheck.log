@@ -1,0 +1,4 @@
+﻿  CreditCardNumberCheck.cpp
+C:\Users\makem\Documents\GitHub\C++\Tutorials\CreditCardNumberCheck\CreditCardNumberCheck\CreditCardNumberCheck.cpp(71,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\makem\Documents\GitHub\C++\Tutorials\CreditCardNumberCheck\CreditCardNumberCheck\CreditCardNumberCheck.cpp(98,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CreditCardNumberCheck.vcxproj -> C:\Users\makem\Documents\GitHub\C++\Tutorials\CreditCardNumberCheck\x64\Debug\CreditCardNumberCheck.exe
