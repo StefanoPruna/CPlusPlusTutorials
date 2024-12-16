@@ -1,0 +1,7 @@
+﻿  TicTocToe2Players.cpp
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe2Players\TicTocToe2Players\TicTocToe2Players.cpp(96,14): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe2Players\TicTocToe2Players\TicTocToe2Players.cpp(96,29): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe2Players\TicTocToe2Players\TicTocToe2Players.cpp(113,14): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe2Players\TicTocToe2Players\TicTocToe2Players.cpp(113,29): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe2Players\TicTocToe2Players\TicTocToe2Players.cpp(149,13): warning C4129: 'N': unrecognized character escape sequence
+  TicTocToe2Players.vcxproj -> C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe2Players\x64\Debug\TicTocToe2Players.exe

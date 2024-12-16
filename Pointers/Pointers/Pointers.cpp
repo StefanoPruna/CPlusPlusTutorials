@@ -9,12 +9,24 @@ int main()
 {
     /*Null value = When a pointer is holding a null value, that pointer is not pointing at anything
                     They're useful to determine if an address was successfully assigned to a pointer*/
-    int* pointer = nullptr;
+    
+    int *pointer = nullptr;
     int number = 123;
 
     pointer = &number;
     
-    if(pointer
+    if (pointer == nullptr)
+        cout << "address wasn't assigned\n";
+    else
+        cout << "address was assigned\n";
+
+    //DO NOT DO BELOW!!!
+    /*IF I DON'T ASSIGNED THE ADDRESS, pointer = &number,
+    * OR POINTING TO FREE MEMORY
+    AND I TRY TO PRINT THE POINTER VAR, cout << *pointer
+    THE SYSTEM WILL CRASH!!!
+    THIS WILL CAUSE UNDEFINED BEHAVIOR
+    */
 
     ///*pointers = var that stores a memory address of another var
     //           & for address of operator

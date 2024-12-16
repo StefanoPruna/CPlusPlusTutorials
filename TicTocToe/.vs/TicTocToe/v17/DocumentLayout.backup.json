@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\TicTocToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C95F0B-E762-4712-9AB1-555F9E7BCCD1}|TicTocToe\\TicTocToe.vcxproj|C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\TicTocToe\\TicTocToe\\TicTocToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49C95F0B-E762-4712-9AB1-555F9E7BCCD1}|TicTocToe\\TicTocToe.vcxproj|solutionrelative:TicTocToe\\TicTocToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTocToe.cpp",
+              "DocumentMoniker": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\TicTocToe\\TicTocToe\\TicTocToe.cpp",
+              "RelativeDocumentMoniker": "TicTocToe\\TicTocToe.cpp",
+              "ToolTip": "C:\\Users\\makem\\Documents\\GitHub\\C\u002B\u002B\\Tutorials\\TicTocToe\\TicTocToe\\TicTocToe.cpp",
+              "RelativeToolTip": "TicTocToe\\TicTocToe.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T02:25:55.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

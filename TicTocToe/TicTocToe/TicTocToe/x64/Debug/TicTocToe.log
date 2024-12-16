@@ -1,0 +1,6 @@
+﻿  TicTocToe.cpp
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe\TicTocToe\TicTocToe.cpp(87,14): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe\TicTocToe\TicTocToe.cpp(87,29): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe\TicTocToe\TicTocToe.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe\TicTocToe\TicTocToe.cpp(138,13): warning C4129: 'N': unrecognized character escape sequence
+  TicTocToe.vcxproj -> C:\Users\makem\Documents\GitHub\C++\Tutorials\TicTocToe\TicTocToe\x64\Debug\TicTocToe.exe
